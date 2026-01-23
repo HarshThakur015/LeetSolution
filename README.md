@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/HarshThakur015/LeetSolution/tree/master/0011-container-with-most-water) |
 | [0268-missing-number](https://github.com/HarshThakur015/LeetSolution/tree/master/0268-missing-number) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/HarshThakur015/LeetSolution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Hash Table
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/HarshThakur015/LeetSolution/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/HarshThakur015/LeetSolution/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/HarshThakur015/LeetSolution/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
