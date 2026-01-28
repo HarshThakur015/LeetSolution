@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/HarshThakur015/LeetSolution/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/HarshThakur015/LeetSolution/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/HarshThakur015/LeetSolution/tree/master/0509-fibonacci-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/HarshThakur015/LeetSolution/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/HarshThakur015/LeetSolution/tree/master/2169-count-operations-to-obtain-zero) |
 ## Simulation
@@ -47,4 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/HarshThakur015/LeetSolution/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/HarshThakur015/LeetSolution/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/HarshThakur015/LeetSolution/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/HarshThakur015/LeetSolution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
