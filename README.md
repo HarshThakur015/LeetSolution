@@ -58,4 +58,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/HarshThakur015/LeetSolution/tree/master/0509-fibonacci-number) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/HarshThakur015/LeetSolution/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/HarshThakur015/LeetSolution/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/HarshThakur015/LeetSolution/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
