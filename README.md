@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/HarshThakur015/LeetSolution/tree/master/0268-missing-number) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/HarshThakur015/LeetSolution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3637-trionic-array-i](https://github.com/HarshThakur015/LeetSolution/tree/master/3637-trionic-array-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/HarshThakur015/LeetSolution/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/HarshThakur015/LeetSolution/tree/master/0268-missing-number) |
+| [3719-longest-balanced-subarray-i](https://github.com/HarshThakur015/LeetSolution/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,4 +72,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/HarshThakur015/LeetSolution/tree/master/0110-balanced-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/HarshThakur015/LeetSolution/tree/master/3719-longest-balanced-subarray-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/HarshThakur015/LeetSolution/tree/master/3719-longest-balanced-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/HarshThakur015/LeetSolution/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
