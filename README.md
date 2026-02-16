@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/HarshThakur015/LeetSolution/tree/master/0011-container-with-most-water) |
 | [0268-missing-number](https://github.com/HarshThakur015/LeetSolution/tree/master/0268-missing-number) |
 | [1480-running-sum-of-1d-array](https://github.com/HarshThakur015/LeetSolution/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/HarshThakur015/LeetSolution/tree/master/1672-richest-customer-wealth) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/HarshThakur015/LeetSolution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3637-trionic-array-i](https://github.com/HarshThakur015/LeetSolution/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/HarshThakur015/LeetSolution/tree/master/3719-longest-balanced-subarray-i) |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/HarshThakur015/LeetSolution/tree/master/1480-running-sum-of-1d-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/HarshThakur015/LeetSolution/tree/master/3719-longest-balanced-subarray-i) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/HarshThakur015/LeetSolution/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
