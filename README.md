@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/HarshThakur015/LeetSolution/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/HarshThakur015/LeetSolution/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -91,4 +92,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/HarshThakur015/LeetSolution/tree/master/1672-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/HarshThakur015/LeetSolution/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/HarshThakur015/LeetSolution/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/HarshThakur015/LeetSolution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
